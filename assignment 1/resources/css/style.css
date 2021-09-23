@@ -6,7 +6,7 @@
 
 
 header{
-    background-image: url('/vendor/img/background img .jpeg');
+    background-image: url('resources/img/my img.jpg');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
